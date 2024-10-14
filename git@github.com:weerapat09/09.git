@@ -1,0 +1,8 @@
+git@github.com:weerapat09/09.git
+ echo "# 09" >> README.md 
+git init 
+git add README.md 
+git commit -m "คอมมิทครั้งแรก" 
+git branch -M main 
+git remote add origin git@github.com:วีระพัฒน์09/09.git
+ git push -u origin main
